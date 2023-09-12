@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>The Clock</b>
+  <b>The Clock</b><br/>
   <sub>This clock is more than just a timepiece, it's a versatile tool for measuring time in different ways<sub>
   <br><br><img alt="Clock" src="./clockImg.png">
 </p>
